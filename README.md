@@ -10,7 +10,7 @@ The test set provides a representative sample, meaning if the model performs wel
 
 1. Accurate Peak Capture
    - High consumption outliers (top 2%): Actual 3.17–5.63 kWh, Predicted 3.17–5.65 kWh  
-   - Model slightly overestimates peaks (+0.02 kWh), showing it robustly captures extreme demand.
+   - Model slightly overestimates peaks (+0.02 kWh), showing it robustly captures extreme spikes.
 
 2. Low Residuals / Error
    - RMSE = 0.228 kWh; 90% of normal consumption falls within 0–3.15 kWh  
